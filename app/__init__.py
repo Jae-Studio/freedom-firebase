@@ -1,0 +1,1 @@
+# Initializes the Flask app and connects it to Firebase.
